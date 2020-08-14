@@ -1,0 +1,16 @@
+{
+  "name": "discord_test",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "/hello"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@v0id/fetch": "^4.0.4",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.6.1"
+  }
+}
